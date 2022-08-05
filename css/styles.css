@@ -75,6 +75,10 @@ body {
     letter-spacing: 0.02em;
 }
 
+.site-nav .link.current {
+    color: var(--acсent-color);
+}
+
 .contacts {
     font-weight: 500;
     font-size: 14px;
